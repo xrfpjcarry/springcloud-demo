@@ -7,6 +7,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
  * Created by xp
+ * 线程安全的高速缓存
  * on 2019/3/4.
  */
 public class ReaderAndWriter<K,V> {
